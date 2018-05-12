@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '9092'
     url: http://www.gutenberg.org/2009/agents/9092
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20119#Ambrotox-and-Limping-Dick
 gutenberg_issued: '2006-12-16'
 gutenberg_type: Text
 identifiers:
